@@ -1,0 +1,5 @@
+{
+  "name": "Bio-Vision AR",
+  "description": "Biomedical Engineering AR App with Hand Tracking",
+  "requestFramePermissions": ["camera"]
+}
